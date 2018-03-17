@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Pega Robotics Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{B45C44CD-E95B-43EF-AF7C-4D25776FBF5E}") = "DemoOutlook", "DemoOutlook\DemoOutlook.osproj", "{493867ED-E792-4E2D-8217-D395B04FBB3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{493867ED-E792-4E2D-8217-D395B04FBB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{493867ED-E792-4E2D-8217-D395B04FBB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{493867ED-E792-4E2D-8217-D395B04FBB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{493867ED-E792-4E2D-8217-D395B04FBB3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
